@@ -1,5 +1,5 @@
 # Jailbreak-the-Bot
-To deploy the challenge run the following command (in the same folder of the "docker-compose.yml" file):
+To deploy and test the challenge in your machine, run the following command (in the same folder of the "docker-compose.yml" file):
 ```
 docker-compose up --build
 ```
